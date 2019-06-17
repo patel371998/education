@@ -22,13 +22,17 @@ include("dbconnect.php");
 
       <div style="padding:100px";>
 <center>
-  <h1>
-      <?php
-$result = $_GET['image'];
-?>
-<img src="uploaded_files/<?php echo $result; ?>.jpg">
-      
-</h1>
+   <div class="col-lg-4">
+              <a href="img/Notice/Notice1.jpg" class="img-gal">
+                <div class="single-imgs relative">    
+                  <div class="overlay overlay-bg"></div>
+                  <div class="relative">          
+                    <img class="img-fluid" src="img/Notice/tNotice.jpg" alt="">        
+                  </div>
+                </div>
+              </a>
+            </div>
+            
 </center>
           </div>
             

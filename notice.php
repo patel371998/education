@@ -23,7 +23,8 @@ include("dbconnect.php");
       <div style="padding:100px";>
 <center>
   <h1>
-      <p class="text-white link-nav"><a href="img/Notice/Notice.txt">See Notice </a></p>
+      <p class="text-white link-nav"><a href="img/Notice/form.pdf">Admission Form </a></p>
+      <p class="text-white link-nav"><a href="img/Notice/form2.pdf">Shapath form</a></p>
       <section class="gallery-area section-gap">
         <div class="container">
          
@@ -31,25 +32,16 @@ include("dbconnect.php");
           
             </div>
             <div class="col-lg-4">
-              <a href="img/gallery/t_4.jpg" class="img-gal">
+              <a href="img/Notice/Notice1.jpg" class="img-gal">
                 <div class="single-imgs relative">    
                   <div class="overlay overlay-bg"></div>
                   <div class="relative">          
-                    <img class="img-fluid" src="img/gallery/t_4.jpg" alt="">        
+                    <img class="img-fluid" src="img/Notice/Notice1.jpg" alt="">        
                   </div>
                 </div>
               </a>
             </div>
-            <div class="col-lg-4">
-              <a href="img/gallery/t_5.jpg"  class="img-gal">
-                <div class="single-imgs relative">    
-                  <div class="overlay overlay-bg"></div>
-                  <div class="relative">          
-                    <img class="img-fluid" src="img/gallery/t_5.jpg" alt="">        
-                  </div>
-                </div>
-              </a>
-            </div>
+            
            
          
           
