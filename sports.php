@@ -3,10 +3,10 @@ include("dbconnect.php");
 ?>
 <?php include 'header.php';?>
 			<!-- start banner Area -->
-			<section class="banner-area relative blog-home-banner" id="home" style="background:url('img/sp.png');>	
+			<section class="banner-area relative blog-home-banner" id="home" style="background:url('img/bnn1.jpg');>	
 				<div class="overlay overlay-bg"></div>
 				<div class="overlay overlay-bg"></div>
-							
+				<div class="container">				
 					<div class="row d-flex align-items-center justify-content-center" style="height:20%";>
 						<div class="about-content blog-header-content col-lg-12" >
 							<h1 class="text-white">
