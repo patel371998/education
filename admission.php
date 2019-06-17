@@ -21,8 +21,8 @@ include("dbconnect.php");
 			</section>
 		
 <center>
-   <b> <p class="text-white link-nav" style="font-size: 30px"><a href="img/Notice/form.pdf">Admission Form </a></p>
-      <p class="text-white link-nav" style="font-size: 30px"><a href="img/Notice/form2.pdf">Shapath form</a></p></b>
+   <b> <p class="text-white link-nav" style="font-size: 30px"><a href="img/Notice/form.pdf">Download Admission Form </a></p>
+      <p class="text-white link-nav" style="font-size: 30px"><a href="img/Notice/form2.pdf">Download Shapath form</a></p></b>
  <section id="content" align="left" style="padding:100px;">
 
          

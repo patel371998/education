@@ -23,8 +23,8 @@ include("dbconnect.php");
       <div style="padding:100px";>
 <center>
   <h1>
-      <p class="text-white link-nav"><a href="img/Notice/form.pdf">Admission Form </a></p>
-      <p class="text-white link-nav"><a href="img/Notice/form2.pdf">Shapath form</a></p>
+      <p class="text-white link-nav"><a href="img/Notice/form.pdf"> Download Admission Form </a></p>
+      <p class="text-white link-nav"><a href="img/Notice/form2.pdf">Download Shapath form</a></p>
       <section class="gallery-area section-gap">
         <div class="container">
          

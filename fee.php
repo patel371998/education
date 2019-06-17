@@ -26,8 +26,7 @@ include("dbconnect.php");
 				
 				<center>		
 						
-					<img src="img/f1.png" alt="" title="">
-					<img src="img/f2.png" alt="" title="">
+					<img src="img/fees.png" alt="" title="">
 					
 				</center>
 			</section>
