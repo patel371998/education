@@ -24,7 +24,7 @@ include("dbconnect.php");
       <div style="padding:100px";>
 <center>
    <div class="col-lg-4">
-              <a href="img/Notice/Notice1.jpg" class="img-gal">
+              <a href="img/Notice/Notice2.jpg" class="img-gal">
                 <div class="single-imgs relative">    
                   <div class="overlay overlay-bg"></div>
                   <div class="relative">          
