@@ -28,7 +28,7 @@ include("dbconnect.php");
                 <div class="single-imgs relative">    
                   <div class="overlay overlay-bg"></div>
                   <div class="relative">          
-                    <img class="img-fluid" src="img/Notice/tNotice.jpg" alt="">        
+                    <img class="img-fluid" src="img/Notice/Notice2.jpg" alt="">        
                   </div>
                 </div>
               </a>
