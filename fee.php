@@ -5,7 +5,7 @@ include("dbconnect.php");
 <?php include 'header.php';?>
 			  
 			<!-- start banner Area -->
-			<section class="banner-area relative about-banner" id="home" style="background:url('img/bnn.jpg');>	
+			<section class="banner-area relative about-banner" id="home" style="background:url('img/bnn1.jpg');>	
 				<div class="overlay overlay-bg"></div>
 				<div class="overlay overlay-bg"></div>
 				<div class="container">				

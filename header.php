@@ -33,7 +33,7 @@
 			<link rel="stylesheet" href="css/main.css">
 		</head>
 		<body>	
-		  <header id="header" id="home">
+		  <header id="header" id="home" >
 		  
 	  		
 		    <div class="container main-menu" style="width:100%";>
@@ -68,7 +68,7 @@
 					  <li class="menu-has-children"><a href="">Resources</a>
 			            <ul>
 			            	
-			            	  <li class="menu-has-children"><a href="Notice.php">Notice</a>
+			            	  <li class="menu-has-children"><a href="">Notice</a>
 			            <ul>
 						  <li><a href="Notice.php">Student Notice </a></li>
 			              <li><a href="tnotice.php">Teachers Notice</a></li>
