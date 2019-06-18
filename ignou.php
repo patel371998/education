@@ -24,15 +24,14 @@ include("dbconnect.php");
 			<center>
 		
 
-<section id="content" style="padding:20px;">
+<section id="content" style="padding:1%;">
         
          <div class="inside">
                         
             
             <p class="style1">
-                <img width="60%" alt="" src="images/ignou1.jpg">
-                <img width="60%" alt="" src="images/ignou2.jpg">
-                <img width="60%" alt="" src="images/ignou3.jpg">
+                <img width="60%" alt="" src="images/ignou.png">
+                
                 
                 </p>
             
