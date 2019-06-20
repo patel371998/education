@@ -51,11 +51,11 @@ include("dbconnect.php");
 	<table cellspacing="8" cellpadding="4" rules="all" border="1" id="ContentPlaceHolder1_GridView1" style="color:Maroon;font-family:Verdana;font-size:Small;font-weight:bold;height:219px;width:650px;">
 		<tbody><tr style="color:White;background-color:#5D7B9D;font-weight:bold;">
 			<th scope="col">NAME</th><th scope="col">Designation</th><th scope="col">Qualification</th>
-		</tr><tr style="color:#333333;background-color:#F7F6F3;">
-			<td>Dr. Ajay Pal Singh</a></td><td>Associate Professor &amp;  Head</td><td>M.A, M.Phil, Ph.D</td>
+	
 		</tr><tr style="color:#284775;background-color:White;">
 			<td>Dr. Ashok Tripathi</a></td><td>Assistant Professor</td><td>M.A. (Med. History) ,D.Phil</td>
 		</tr><tr style="color:#333333;background-color:#F7F6F3;">
+			<td><a>Vacant Post - 2</a></td><td>&nbsp;</td><td>&nbsp;</td>
 		
 		</tr>
 	</tbody></table>

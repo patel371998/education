@@ -63,7 +63,7 @@ include("dbconnect.php");
 		</tr><tr style="color:#284775;background-color:White;">
 			<td>Dr. Satish Kumar</a></td><td>Associate Professor</td><td>M.A, M.Phil, NET(UGC), Ph.D</td>
 		</tr><tr style="color:#333333;background-color:#F7F6F3;">
-			<td>Dr. Anill Kumar</a></td><td>Lecturar </td><td>M.A, M.Phil, Ph.D</td>
+			<td>Dr. Anill Kumar</a></td><td>Associate Professor </td><td>M.A, M.Phil, Ph.D</td>
 		</tr>
 	</tbody></table>
 </div>

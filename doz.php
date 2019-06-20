@@ -30,7 +30,7 @@ include("dbconnect.php");
             
                     The <strong>Department of Zoology</strong> was established in the year 1970 and P.G. classes were started in the year 1982. The intake of the department for 
                         <strong>U.G classes is 60</strong> and for <strong>P.G classes is 15</strong>. At present 
-                        <strong>Head/In charge of the department is Dr Saroj Gupta</strong>.
+                        <strong>Head/In charge of the department is Dr Sekhar Chand</strong>.
                         <br>
                         This department is also recognized for research center by the university.
 
@@ -53,10 +53,10 @@ include("dbconnect.php");
 		<tbody><tr style="color:White;background-color:#5D7B9D;font-weight:bold;">
 			<th scope="col">NAME</th><th scope="col">Designation</th><th scope="col">Qualification</th>
 		</tr><tr style="color:#333333;background-color:#F7F6F3;">
-			<td>Dr Saroj Gupta</a></td><td>Associate Professor &amp; Head</td><td>M.Sc., Ph.D</td>
-		</tr><tr style="color:#284775;background-color:White;">
-			<td>Dr Sekhar Chand</a></td><td>Assistant Professor</td><td>M.Sc. Ph.D</td>
+		
+			<td>Dr Sekhar Chand</a></td><td>Assistant Professor &amp; Head</td><td>M.Sc. Ph.D</td>
 		</tr><tr style="color:#333333;background-color:#F7F6F3;">
+			<td><a>Vacant Post - 4</a></td><td>&nbsp;</td><td>&nbsp;</td>
 			
 		</tr>
 	</tbody></table>

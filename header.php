@@ -33,7 +33,7 @@
 			<link rel="stylesheet" href="css/main.css">
 		</head>
 		<body>	
-		  <header id="header" id="home" >
+		  <header id="header" id="home">
 		  
 	  		
 		    <div class="container main-menu" style="width:100%";>

@@ -50,12 +50,16 @@ include("dbconnect.php");
                
                 <div>
 	<table cellspacing="8" cellpadding="4" rules="all" border="1" id="ContentPlaceHolder1_GridView1" style="color:Maroon;font-family:Verdana;font-size:Small;font-weight:bold;height:219px;width:650px;">
-		<tbody><tr style="color:White;background-color:#5D7B9D;font-weight:bold;">
+		<tr style="color:White;background-color:#5D7B9D;font-weight:bold;">
 			<th scope="col">NAME</th><th scope="col">Designation</th><th scope="col">Qualification</th>
-		</tr><tr style="color:#333333;background-color:#F7F6F3;">
 		
+		
+		</tr><tr style="color:#284775;background-color:White;">
+			<td><a >Shri. Basant Kumar</a></td><td> Head</td><td></td>
+		</tr><tr style="color:#333333;background-color:#F7F6F3;">
+			<td><a>Vacant Post - 1</a></td><td>&nbsp;</td><td>&nbsp;</td>
 		</tr>
-	</tbody></table>
+	</table>
 </div>
             
             

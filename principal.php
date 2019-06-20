@@ -26,7 +26,7 @@ include("dbconnect.php")
 					   
 		  
 		   <p text-align="center" >
-			   <img id="ContentPlaceHolder1_varshney" src="img/b.png" style="border-color:#F7F7F7;border-width:2px;border-style:Solid;height:216px;width:165px;" /><br>
+			   <img id="ContentPlaceHolder1_varshney" src="img/prin1.jpg" style="border-color:#F7F7F7;border-width:2px;border-style:Solid;height:216px;width:165px;" /><br>
 			   <br>
 
 			   Dear Students,<br>

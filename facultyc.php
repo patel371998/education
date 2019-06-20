@@ -20,10 +20,11 @@ include("dbconnect.php");
 			</section>
 
 
-            <center>   <table width="650" >
+            <center>  <table width="650" >
         <tr>
             <td style="text-align: left">
-                
+                <h2 class="aligncenter" style="color: #800000">
+                    Faculty of Commerce & Business Administration</h2>
 
                     <p style="color: #003300">
                     The <strong>Faculty of Commerce & Business Administration</strong> was established in 1955 and P.G. classes were started in 1959. The intake of the department for 
@@ -52,21 +53,28 @@ include("dbconnect.php");
 		<tr style="color:White;background-color:#5D7B9D;font-weight:bold;">
 			<th scope="col">NAME</th><th scope="col">Designation</th><th scope="col">Qualification</th>
 		</tr><tr style="color:#333333;background-color:#F7F6F3;">
-			<td>Dr. Satish Chandra Varshney</a></td><td>Associate Professor &amp; Head</td><td>MA(Eco.), M.Com., Ph.D, D.Lit</td>
+			<td><a href="fac1.php" target="_self">Dr. Satish Chandra Varshney</a></td><td>Associate Professor &amp; Principal</td><td>MA(Eco.), M.Com., Ph.D, D.Lit</td>
 		</tr><tr style="color:#284775;background-color:White;">
-			<td>Dr.Nisha Agarwal</a></td><td>Reader</td><td>M.Com., M.A.(Eco.), Ph.D</td>
+			<td><a href="fac2.php" target="_self">Dr.Nisha Agarwal</a></td><td>Associate Professor &amp; Head</td><td>M.Com., M.A.(Eco.), Ph.D</td>
 		</tr><tr style="color:#333333;background-color:#F7F6F3;">
-			<td>Dr. P.K.Srivastava</a></td><td>Associate Professor</td><td>M.Com., M.A.(Eco.), MBA, Ph.D, D.Litt.</td>
+			<td><a href="fac3.php" target="_self">Dr. P.K.Srivastava</a></td><td>Associate Professor</td><td>M.Com., M.A.(Eco.), MBA, Ph.D, D.Litt.</td>
 		</tr><tr style="color:#284775;background-color:White;">
-			<td>Dr.Vikas Verma</a></td><td>Assistant Professor</td><td>M.Com.,  Ph.D</td>
-		</tr><tr style="color:#333333;background-color:#F7F6F3;">
-			<td>Dr. R.K. Mittal</a></td><td>Super Annuated Teacher</td><td>M.Com., Ph.D</td>
+			<td><a href="fac4.php" target="_self">Dr.Vikas Verma</a></td><td>Associate Professor</td><td>M.Com.,  Ph.D</td>
+		
 		</tr><tr style="color:#284775;background-color:White;">
-			<td>Dr. S.P. Agarwal</a></td><td>Retired Associate Professor</td><td>M.Com., M.A.(Eco.) , Ph.D, D.Lit</td>
+			<td><a href="fac5.php" target="_self">Dr. S.P. Agarwal</a></td><td>Retired Associate Professor</td><td>M.Com., M.A.(Eco.) , Ph.D, D.Lit</td>
 		</tr><tr style="color:#333333;background-color:#F7F6F3;">
-			
+			<td><a>Vacant Post - 8</a></td><td>&nbsp;</td><td>&nbsp;</td>
 		</tr>
 	</table>
+</div>
+            
+            
+
+            </td>
+        </tr>
+    </table>
+
 </div>
             
             

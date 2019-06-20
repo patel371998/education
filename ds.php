@@ -55,9 +55,9 @@ include("dbconnect.php");
 		</tr><tr style="color:#333333;background-color:#F7F6F3;">
 			<td>Dr Vijaylakshmi</a></td><td>Associate Professor &amp; Head</td><td>M.A, Ph.D.</td>
 		</tr><tr style="color:#284775;background-color:White;">
-			<td>Dr Charan Singh</a></td><td>Assistant Professor</td><td>M.A, M.Phil, NET , Ph.D.</td>
+			<td>Dr Charan Singh</a></td><td>Associate Professor</td><td>M.A, M.Phil, NET , Ph.D.</td>
 		</tr><tr style="color:#333333;background-color:#F7F6F3;">
-			<td>Dr Arunima Rani</a></td><td>Assistant Professor</td><td>M.A,  Ph.D.</td>
+			<td>Dr Arunima Rani</a></td><td>Associate Professor</td><td>M.A,  Ph.D.</td>
 		</tr><tr style="color:#284775;background-color:White;">
 			<td>Dr  (Smt.) Shuchi Agrawal</a></td><td>Assistant Professor</td><td>M.A, M.Phil ,Ph.D</td>
 		</tr>

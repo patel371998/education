@@ -50,7 +50,7 @@ include("dbconnect.php");
 		<tbody><tr style="color:White;background-color:#5D7B9D;font-weight:bold;">
 			<th scope="col">NAME</th><th scope="col">Designation</th><th scope="col">Qualification</th>
 		</tr><tr style="color:#333333;background-color:#F7F6F3;">
-			<td>Km. Reena Sharma</a></td><td>Part Time Lecturer</td><td>M.Sc. (CS)</td>
+			<td>Mr. Gopal Verma</a></td><td>Part Time Lecturer</td><td></td>
 		</tr><tr style="color:#284775;background-color:White;">
 			<td>Km. Neha Mohan</a></td><td>Part Time Lecturer</td><td>MCA</td>
 		</tr>

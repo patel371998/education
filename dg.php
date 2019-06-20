@@ -56,7 +56,10 @@ include("dbconnect.php");
 		</tr><tr style="color:#333333;background-color:#F7F6F3;">
 			<td>Dr.Vandana Tyagi</a></td><td>Associate Professor &amp; Head</td><td>M.A.,  Ph.D</td>
 		</tr><tr style="color:#284775;background-color:White;">
-		
+			
+			<td>Dr.Praveen Kumar</a></td><td>Associate Professor &amp; Head</td><td>M.A.,  Ph.D</td>
+		</tr><tr style="color:#284775;background-color:White;">
+		<td><a>Vacant Post - 5</a></td><td>&nbsp;</td><td>&nbsp;</td>
 		</tr>
 	</tbody></table>
 </div>

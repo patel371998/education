@@ -24,7 +24,8 @@ include("dbconnect.php");
 			<div style="padding:100px";>
 <center>
 	<h1>
-			<p class="text-white link-nav"><a href="images/ssr/magazine.pdf">See Magazine </a></p>
+			<p class="text-white link-nav"><a href="images/ssr/magazine.pdf">See Prospecture </a></p>
+			<p class="text-white link-nav"><a href="images/ssr/mag.pdf">See Magazine </a></p>
 </h1>
 </center>
       		</div>

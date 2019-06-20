@@ -4,7 +4,7 @@ include("dbconnect.php")
 ?>
 	<?php include 'header.php';?>
 			<!-- start banner Area -->
-			<section class="banner-area relative" id="home" style="background:url('img/bnn1.jpg');>
+			<section class="banner-area relative" id="home" style="background:url('img/bnn3.jpg');>
 			
 				<div class="overlay overlay-bg"></div>
 				
@@ -15,14 +15,33 @@ include("dbconnect.php")
 						<div class="banner-content col-lg-9 col-md-12"><br>
 						
 						
-							<h2 class="text-uppercase" style="color:white">
-							Sanatan Dharm College, Muzaffarnagar 
+						<center> <div style="padding-left: 5%">	<h2 class="text-uppercase" style="color:white";>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sanatan Dharm College, Muzaffarnagar 
 							</h2>
 							<h2 style="color: white;" >
-						   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	(Affiliated to CCS University, Meerut)	
-							</h2>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Affiliated to CCS University, Meerut)	
 
+							</h2> </div>
+                        </center>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
 
+                        <div style="padding-left: 10%"> 
+                        <div style="border: 2px solid black;">
+  <div style=" margin: 1%px;
+  background-color: #ffffff;
+  border: 1px solid black;
+  opacity: 0.6;
+  filter: alpha(opacity=60);">
+    <p style=" margin: 5%;
+  font-weight: bold;
+  color: #000000;">NOTICE</p>
+  <p></p>
+  </div>
+</div>
+</div>
                      </div>		
 						</div>										
 					</div>
@@ -33,7 +52,7 @@ include("dbconnect.php")
 
 <div class="pt-10 pb-10" style="padding-left: 8%; padding-right: 8%">
        <h1>About Us</h1>
-		<p style="color: black; font-size: 14px">	
+		<p style="color: black; font-size: 14px ">	
 	Sanatan Dharm College, Muzaffarnagar (affiliated to CCS University, Meerut) is one of the premier institutions of Western Uttar Pradesh. It is managed by a registered body viz. S. D. College Association which also supervises several other technical and educational institutes as well as social welfare associations. The college enjoys a glorious past, an impressive present and the vision of a very bright future. ‘March Forward’ is not just a slogan here but a time-tested tradition. At present, several ambitious projects are on cards and are likely to take shape in near future.<br><br>
 
 This institution was founded by Sri Omkar Prasad Bisaria in 1909. In 1915, it became the first govt.-aided High School in Distt. Muzaffarnagar. Since then, it has been making continuous progress and has risen to the level of a prestigious post-graduate college imparting education in almost all the streams of the three faculties of Arts, Science and Commerce. Besides these, the college runs classes in B. Sc. (Home Science) too. B. Sc. (Computer Application as vocational course) is also available in the college. Recently, the college has also started running self financed courses in B.Com., M.Sc. Home science (Food & nutrition, clothing & textile) and B.P.Ed . A Centre of IGNOU (Indira Gandhi National Open University) New Delhi has already been established on the campus. At present, about 5000 students are on roll in the college. The campus is spread over 22.07 acre and comprises sufficient number of lecture theatres, well equipped laboratories, a vast multi-storied library, an administrative block, a larged sized auditorium and the teachers' quarters. The majestic main gate and the bank are other attractions of the college.<br><br>

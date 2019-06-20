@@ -31,7 +31,7 @@ include("dbconnect.php");
 
                     The <strong>Department of Chemistry</strong> was established in the year 1962 and P.G. classes were started in the year 1965. The intake of the department for 
                         <strong>U.G classes is 60+120=180</strong> and for <strong>P.G classes is 20</strong>. At present 
-                        <strong>Head/In charge of the department is Dr. Rajkumar </strong>.
+                        <strong>Head/In charge of the department is Dr. Sanjay Kumar Arora </strong>.
                         <br>
                         This department is also recognized for research center by the university.
 
@@ -52,13 +52,21 @@ include("dbconnect.php");
                 <div>
 	<table cellspacing="8" cellpadding="4" rules="all" border="1" id="ContentPlaceHolder1_GridView1" style="color:Maroon;font-family:Verdana;font-size:Small;font-weight:bold;height:219px;width:650px;">
 		<tbody><tr style="color:White;background-color:#5D7B9D;font-weight:bold;">
+
 			<th scope="col">NAME</th><th scope="col">Designation</th><th scope="col">Qualification</th>
-		</tr><tr style="color:#333333;background-color:#F7F6F3;">
-			<td>Dr. Arvin Panwar</a></td><td>Lecturer on maandey</td><td>M.Sc.,Ph.D, NET-CSIR</td>
-		</tr><tr style="color:#284775;background-color:White;">
-			<td>Dr Sanjay Kumar Arora</a></td><td>Lecturer on maandey</td><td>M.Sc.,Ph.D </td>
-		</tr><tr style="color:#333333;background-color:#F7F6F3;">
+			<tr style="color:#284775;background-color:White;">
+			<td>Dr Sanjay Kumar Arora</a></td><td>Assistant Professor &amp; Head</td><td>M.Sc.,Ph.D </td>
 		
+		</tr><tr style="color:#333333;background-color:#F7F6F3;">
+			<td>Dr. Arvin Panwar</a></td><td>Assistant Professor</td><td>M.Sc.,Ph.D, NET-CSIR</td>
+
+		</tr><tr style="color:#333333;background-color:#F7F6F3;">
+			<td>Dr. Naveen Kumar</a></td><td>Assistant Professor</td><td></td>
+			</tr><tr style="color:#333333;background-color:#F7F6F3;">
+			<td>Dr. Sareeta Dhaka</a></td><td>Assistant Professor</td><td></td>
+			</tr><tr style="color:#284775;background-color:White;">
+			<td><a>Vacant Post - 8</a></td><td>&nbsp;</td><td>&nbsp;</td>
+	
 		</tr>
 	</tbody></table>
 </div>

@@ -51,13 +51,13 @@ include("dbconnect.php");
 	<table cellspacing="8" cellpadding="4" rules="all" border="1" id="ContentPlaceHolder1_GridView1" style="color:Maroon;font-family:Verdana;font-size:Small;font-weight:bold;height:219px;width:650px;">
 		<tbody><tr style="color:White;background-color:#5D7B9D;font-weight:bold;">
 			<th scope="col">NAME</th><th scope="col">Designation</th><th scope="col">Qualification</th>
-		</tr><tr style="color:#333333;background-color:#F7F6F3;">
-			<td>Dr. (Smt.) Rita Sharma</a></td><td>Officiating Principal</td><td>M.A. Ph.D.</td>
+		
 		</tr><tr style="color:#284775;background-color:White;">
-			<td>r. (Smt.) Sangita Singhal</a></td><td>Associate Professor</td><td>M.A. Ph.D.</td>
+			<td>r. (Smt.) Sangita Singhal</a></td><td>Associate Professor &amp; Head</td><td>M.A. Ph.D.</td>
 		</tr><tr style="color:#333333;background-color:#F7F6F3;">
-			<td>Dr. R.K Agarwal</a></td><td>Associate Professor &amp; Librarian</td><td>B.Sc(Hons), M.A(Eco), Ph.D.</td>
-		</tr><tr style="color:#284775;background-color:White;">
+	
+			<td><a>Vacant Post - 5</a></td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr>
 			
 		</tr>
 	</tbody></table>
