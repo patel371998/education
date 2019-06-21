@@ -3,7 +3,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<head>
         
-		<!-- Mobile Specific Meta -->
+		
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<!-- Favicon-->
 		<link rel="shortcut icon" href="img/fav.png">
@@ -11,17 +11,15 @@
 		<meta name="author" content="colorlib">
 		<!-- Meta Description -->
 		<meta name="description" content="">
-		<!-- Meta Keyword -->
+	
 		<meta name="keywords" content="">
-		<!-- meta character set -->
+	
 		<meta charset="UTF-8">
-		<!-- Site Title -->
+		
 		<title>Education</title>
 
 		<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet"> 
-			<!--
-			CSS
-			============================================= -->
+			
 			<link rel="stylesheet" href="css/linearicons.css">
 			<link rel="stylesheet" href="css/font-awesome.min.css">
 			<link rel="stylesheet" href="css/bootstrap.css">
@@ -34,6 +32,24 @@
 		</head>
 		<body>	
 		  <header id="header" id="home">
+		  	<div class="header-top">
+	  			<div class="container">
+			  		<div class="row">
+			  			<div class="col-lg-6 col-sm-6 col-8 header-top-left no-padding">
+			  				<ul>
+								<li style="font-size: 150%"><a href="https://www.facebook.com/pages/SD-Degree-College-Muzaffarnagar/152972875327454?__tn__=kC-R&eid=ARBumhsV36FSC_khCKl7AahZfQP5gGwEUBtLmQenjTDMLk55YdgTFYGYK4BvIobYS76GRWxm4YggWFJi&hc_ref=ARS-1NNI9Rdb8KWtEfp6Ypwx_vQBX4QS2eYdYSxEY3gSNk1Lgx4GbWWe5HPqdht-rt8&fref=tag"><i class="fa fa-facebook"></i></a></li>
+								
+								
+			  				</ul>			
+			  			</div>
+			  			<div class="col-lg-6 col-sm-6 col-4 header-top-right no-padding">
+			  				<b><a href="contact.php" ><button style=" background color: grey;">Contact Us</button></a></b>
+			  				<span class="lnr lnr-phone-handset" style="color: white"> <span class="text">0131-2604053, 2602354, 0131-2600137</span>
+			  							
+			  			</div>
+			  		</div>			  					
+	  			</div>
+			</div>
 		  
 	  		
 		    <div class="container main-menu" style="width:100%";>
@@ -41,7 +57,7 @@
 		    	<div class="row align-items-center justify-content-between d-flex">
 			
 			      <div id="logo">
-			        <a href="index.php"><img src="img/m.png" alt="" title="" width=390px height=120px/></a>
+			        <a href="index.php"><img src="img/m.png" alt="" title="logo" width=390px height=120px/></a>
 			      </div>
 			      <nav id="nav-menu-container">
 				  

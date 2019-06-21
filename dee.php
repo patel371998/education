@@ -52,11 +52,11 @@ include("dbconnect.php");
         <tbody><tr style="color:White;background-color:#5D7B9D;font-weight:bold;">
             <th scope="col">NAME</th><th scope="col">Designation</th><th scope="col">Qualification</th>
         </tr><tr style="color:#333333;background-color:#F7F6F3;">
-            <td>Dr. Alka Bansal</a></td><td>Associate Professor &amp; Head</td><td>M.A, M.Phil ,Ph.D</td>
+            <td><a href="fac7.php">Dr. Alka Bansal</a></td><td>Associate Professor &amp; Head</td><td>M.A, M.Phil ,Ph.D</td>
         </tr><tr style="color:#284775;background-color:White;">
-            <td>Dr. Mahima</a></td><td>Associate Professor</td><td>M.A, Ph.D</td>
+            <td><a href="fac8.php">Dr. Mahima</a></td><td>Associate Professor</td><td>M.A, Ph.D</td>
         </tr><tr style="color:#333333;background-color:#F7F6F3;">
-            <td>Dr. Kamini Singhal</a></td><td>Associate Professor</td><td>M.A, M.Phil ,Ph.D</td>
+            <td><a href="fac9.php">Dr. Kamini Singhal</a></td><td>Associate Professor</td><td>M.A, M.Phil ,Ph.D</td>
         </tr><tr style="color:#284775;background-color:White;">
             
         </tr>

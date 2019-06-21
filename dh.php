@@ -53,7 +53,7 @@ include("dbconnect.php");
 		<tbody><tr style="color:White;background-color:#5D7B9D;font-weight:bold;">
 			<th scope="col">NAME</th><th scope="col">Designation</th><th scope="col">Qualification</th>
 		</tr><tr style="color:#333333;background-color:#F7F6F3;">
-			<td>Dr. Nikita</a></td><td>Associate Professor &amp; Head</td><td>M.A, M.Phil ,Ph.D</td>
+			<td>Dr. Niketa</a></td><td>Associate Professor &amp; Head</td><td>M.A, M.Phil ,Ph.D</td>
 		</tr><tr style="color:#284775;background-color:White;">
 			<td>Dr. Joyti Singh</a></td><td>Associate Professor</td><td>M.A, Ph.D</td>
 		</tr><tr style="color:#333333;background-color:#F7F6F3;">

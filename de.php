@@ -53,7 +53,7 @@ include("dbconnect.php");
 			<th scope="col">NAME</th><th scope="col">Designation</th><th scope="col">Qualification</th>
 		
 		</tr><tr style="color:#284775;background-color:White;">
-			<td>r. (Smt.) Sangita Singhal</a></td><td>Associate Professor &amp; Head</td><td>M.A. Ph.D.</td>
+			<td><a href="fac6.php" target="_self">Dr. (Smt.) Sangita Singhal</a></td><td>Associate Professor &amp; Head</td><td>M.A. Ph.D.</td>
 		</tr><tr style="color:#333333;background-color:#F7F6F3;">
 	
 			<td><a>Vacant Post - 5</a></td><td>&nbsp;</td><td>&nbsp;</td>

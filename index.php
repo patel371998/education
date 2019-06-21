@@ -28,20 +28,7 @@ include("dbconnect.php")
                         <br>
                         <br>
 
-                        <div style="padding-left: 10%"> 
-                        <div style="border: 2px solid black;">
-  <div style=" margin: 1%px;
-  background-color: #ffffff;
-  border: 1px solid black;
-  opacity: 0.6;
-  filter: alpha(opacity=60);">
-    <p style=" margin: 5%;
-  font-weight: bold;
-  color: #000000;">NOTICE</p>
-  <p></p>
-  </div>
-</div>
-</div>
+                      
                      </div>		
 						</div>										
 					</div>
