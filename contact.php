@@ -30,6 +30,8 @@ include("dbconnect.php");
 				<div class="container">
 					<div class="row">
 						<ui>
+						<h4 style="background: grey;color:white; font-size: 150%">->Address</h4><br>
+
 							<div class="single-contact-address d-flex flex-row">
 								<div class="icon">
 									<span class="lnr lnr-home"></span>
@@ -41,6 +43,8 @@ include("dbconnect.php");
 									</p>
 								</div>
 							</div></li>
+						<h4 style="background: grey;color:white; font-size: 150%">->Contact Number</h4>
+						<br>
 							<div class="single-contact-address d-flex flex-row">
 								<div class="icon">
 									<span class="lnr lnr-phone-handset"></span>
@@ -50,6 +54,8 @@ include("dbconnect.php");
 									<p>Mon to Sat 9am to 6 pm</p>
 								</div>
 							</div></li>
+							<h4 style="background: grey;color:white; font-size: 150%; ">->Details</h4>
+							<br>
 					<div class="single-contact-address d-flex flex-row">
 								<div class="icon">
 									<span class="lnr lnr-envelope"></span>
